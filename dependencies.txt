@@ -1,0 +1,19 @@
+📁 OCR-Markdown-App/
+  ├── 📂 backend/        # OCR & processing scripts
+  │   ├── app.py        # Flask/FastAPI backend
+  │   ├── ocr.py        # TrOCR model script
+  │   ├── format_md.py  # Markdown formatting logic
+  │   ├── utils.py      # Helper functions
+  ├── 📂 frontend/       # UI for image upload
+  │   ├── index.html    # Simple web UI
+  │   ├── styles.css    # UI styling
+  │   ├── app.js        # Frontend logic (if needed)
+  ├── 📂 data/           # Sample handwritten images
+  ├── 📂 models/         # Store fine-tuned models
+  ├── requirements.txt   # Required Python dependencies
+  ├── README.md          # Project documentation
+
+--------------------------------------------------------
+
+
+

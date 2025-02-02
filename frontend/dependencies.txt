@@ -1,6 +1,0 @@
-here is a list of all dependencies for the project
-- 
-
-
-pip install flask flask-cors opencv-python pytesseract numpy spacy textblob transformers torch
-pip install markdownify
